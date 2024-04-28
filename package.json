@@ -1,0 +1,12 @@
+{
+  "name": "@fadonougbo/where-is-my-element",
+  "version": "1.0.0",
+  "description": "this library shows the position of an element on the page",
+  "main": "build/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["debug","css debug","wime","where-is-my-element"],
+  "author": "Fadonougbo <fadougbogautier@gmail.com>",
+  "license": "MIT"
+}

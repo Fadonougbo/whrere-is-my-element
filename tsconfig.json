@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+
+    "target": "ESNext",
+    "rootDir": "./",
+    "moduleResolution": "node",
+    "declaration": true,  
+    "outDir": "./build",                                      
+    "strict": true
+  },
+  "include": ["src"]
+}
