@@ -1,4 +1,4 @@
-export declare class Wine {
+export declare class Wime {
     private static hexValues;
     private static getRandomNumber;
     private static generateHex;
