@@ -32,7 +32,7 @@ Add `wime` class to element yo want to visually detect
 ```
 Elements with the `wine` class will have a `box shadow` with a random color
 
-![demo](demo.png)
+![demo](https://raw.githubusercontent.com/Fadonougbo/github_images/master/demo.png)
 
 You can set the colors to use
 ```js
