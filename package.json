@@ -1,6 +1,6 @@
 {
-  "name": "wime",
-  "version": "1.0.2",
+  "name": "@fadonougbo/wime",
+  "version": "1.0.0",
   "description": "this library shows the position of an element on the page",
   "main": "build/src/index.js",
   "scripts": {
