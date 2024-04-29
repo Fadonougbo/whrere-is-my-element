@@ -1,6 +1,11 @@
 // biome-ignore lint/complexity/noStaticOnlyClass: <explanation>
 export class Wime {
     static hexValues = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f"];
+    /**
+     * Generate random int
+     * @param Length number
+     * @returns number
+     */
     static getRandomNumber(Length) {
         return Math.floor(Math.random() * Length);
     }
@@ -14,6 +19,10 @@ export class Wime {
         const hex = `#${n1}${n2}${n3}${n4}${n5}${n6}`;
         return hex;
     }
+    /**
+     * Add box-shadow on elements
+     * @param defaultColors
+     */
     static showElements(defaultColors = null) {
         const se = document.querySelectorAll(".wime");
         for (const el of se) {
