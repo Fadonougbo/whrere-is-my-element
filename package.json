@@ -9,12 +9,12 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fadonougbo/whrere-is-my-element.git"
+    "url": "https://github.com/Fadonougbo/wime.git"
   },
   "bugs": {
-    "url": "https://github.com/Fadonougbo/whrere-is-my-element/issues"
+    "url": "https://github.com/Fadonougbo/wime/issues"
   },
-  "homepage": "https://github.com/Fadonougbo/whrere-is-my-element",
+  "homepage": "https://github.com/Fadonougbo/wime",
 
   "keywords": ["debug","css debug","wime","debugger"],
   "author": "Fadonougbo <fadougbogautier@gmail.com>",
