@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/Fadonougbo/whrere-is-my-element",
 
-  "keywords": ["debug","css debug","wime","where-is-my-element"],
+  "keywords": ["debug","css debug","wime","debugger"],
   "author": "Fadonougbo <fadougbogautier@gmail.com>",
   "license": "MIT"
 }

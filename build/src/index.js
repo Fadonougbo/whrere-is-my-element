@@ -14,7 +14,7 @@ export class Wime {
         const hex = `#${n1}${n2}${n3}${n4}${n5}${n6}`;
         return hex;
     }
-    static showElement(defaultColors = null) {
+    static showElements(defaultColors = null) {
         const se = document.querySelectorAll(".wime");
         for (const el of se) {
             let color = Wime.generateHex();
@@ -25,4 +25,4 @@ export class Wime {
         }
     }
 }
-Wime.showElement();
+Wime.showElements();
