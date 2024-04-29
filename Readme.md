@@ -2,7 +2,7 @@
 
 # Installation
 
-using npm 
+### using npm 
 
 ```bash
     npm i @fadonougbo/wime
@@ -14,6 +14,11 @@ Then
 
     Wime.showElements()
 
+```
+### using cdn
+```html 
+
+    <script src="https://cdn.jsdelivr.net/gh/Fadonougbo/wime@master/build/src/index.min.js" type="module" defer  ></script>
 ```
 
 # Usage
